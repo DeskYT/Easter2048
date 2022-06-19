@@ -1,0 +1,970 @@
+[
+    {
+        "Key": "011",
+        "Value": "Освітні, педагогічні науки",
+        "TotalApplications": 695,
+        "BudgetApplications": 556,
+        "ContractApplications": 112,
+        "DeclinedApplications": 27
+    },
+    {
+        "Key": "012",
+        "Value": "Дошкільна освіта",
+        "TotalApplications": 351,
+        "BudgetApplications": 281,
+        "ContractApplications": 56,
+        "DeclinedApplications": 14
+    },
+    {
+        "Key": "013",
+        "Value": "Початкова освіта",
+        "TotalApplications": 464,
+        "BudgetApplications": 372,
+        "ContractApplications": 74,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "014",
+        "Value": "Середня освіта",
+        "TotalApplications": 958,
+        "BudgetApplications": 767,
+        "ContractApplications": 153,
+        "DeclinedApplications": 38
+    },
+    {
+        "Key": "015",
+        "Value": "Професійна освіта",
+        "TotalApplications": 597,
+        "BudgetApplications": 478,
+        "ContractApplications": 96,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "016",
+        "Value": "Спеціальна освіта",
+        "TotalApplications": 409,
+        "BudgetApplications": 328,
+        "ContractApplications": 65,
+        "DeclinedApplications": 16
+    },
+    {
+        "Key": "017",
+        "Value": "Фізична культура і спорт",
+        "TotalApplications": 963,
+        "BudgetApplications": 771,
+        "ContractApplications": 154,
+        "DeclinedApplications": 38
+    },
+    {
+        "Key": "021",
+        "Value": "Аудіовізуальне мистецтво та виробництво",
+        "TotalApplications": 384,
+        "BudgetApplications": 308,
+        "ContractApplications": 61,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "022",
+        "Value": "Дизайн",
+        "TotalApplications": 866,
+        "BudgetApplications": 693,
+        "ContractApplications": 139,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "023",
+        "Value": "Образотворче мистецтво, декоративне мистецтво, реставрація",
+        "TotalApplications": 936,
+        "BudgetApplications": 749,
+        "ContractApplications": 150,
+        "DeclinedApplications": 37
+    },
+    {
+        "Key": "024",
+        "Value": "Хореографія",
+        "TotalApplications": 936,
+        "BudgetApplications": 749,
+        "ContractApplications": 150,
+        "DeclinedApplications": 37
+    },
+    {
+        "Key": "025",
+        "Value": "Музичне мистецтво",
+        "TotalApplications": 368,
+        "BudgetApplications": 295,
+        "ContractApplications": 59,
+        "DeclinedApplications": 14
+    },
+    {
+        "Key": "026",
+        "Value": "Сценічне мистецтво",
+        "TotalApplications": 648,
+        "BudgetApplications": 519,
+        "ContractApplications": 104,
+        "DeclinedApplications": 25
+    },
+    {
+        "Key": "027",
+        "Value": "Музеєзнавство, пам’яткознавство",
+        "TotalApplications": 756,
+        "BudgetApplications": 605,
+        "ContractApplications": 121,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "028",
+        "Value": "Менеджмент соціокультурної діяльності",
+        "TotalApplications": 818,
+        "BudgetApplications": 655,
+        "ContractApplications": 131,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "029",
+        "Value": "Інформаційна, бібліотечна та архівна справа",
+        "TotalApplications": 773,
+        "BudgetApplications": 619,
+        "ContractApplications": 124,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "031",
+        "Value": "Релігієзнавство",
+        "TotalApplications": 583,
+        "BudgetApplications": 467,
+        "ContractApplications": 93,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "032",
+        "Value": "Історія та археологія",
+        "TotalApplications": 797,
+        "BudgetApplications": 638,
+        "ContractApplications": 128,
+        "DeclinedApplications": 31
+    },
+    {
+        "Key": "033",
+        "Value": "Філософія",
+        "TotalApplications": 526,
+        "BudgetApplications": 421,
+        "ContractApplications": 84,
+        "DeclinedApplications": 21
+    },
+    {
+        "Key": "034",
+        "Value": "Культурологія",
+        "TotalApplications": 353,
+        "BudgetApplications": 283,
+        "ContractApplications": 56,
+        "DeclinedApplications": 14
+    },
+    {
+        "Key": "035",
+        "Value": "Філологія",
+        "TotalApplications": 804,
+        "BudgetApplications": 644,
+        "ContractApplications": 128,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "041",
+        "Value": "Богослов’я",
+        "TotalApplications": 232,
+        "BudgetApplications": 186,
+        "ContractApplications": 37,
+        "DeclinedApplications": 9
+    },
+    {
+        "Key": "051",
+        "Value": "Економіка",
+        "TotalApplications": 462,
+        "BudgetApplications": 370,
+        "ContractApplications": 74,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "052",
+        "Value": "Політологія",
+        "TotalApplications": 875,
+        "BudgetApplications": 700,
+        "ContractApplications": 140,
+        "DeclinedApplications": 35
+    },
+    {
+        "Key": "053",
+        "Value": "Психологія",
+        "TotalApplications": 386,
+        "BudgetApplications": 309,
+        "ContractApplications": 62,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "054",
+        "Value": "Соціологія",
+        "TotalApplications": 460,
+        "BudgetApplications": 368,
+        "ContractApplications": 74,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "061",
+        "Value": "Журналістика",
+        "TotalApplications": 670,
+        "BudgetApplications": 536,
+        "ContractApplications": 108,
+        "DeclinedApplications": 26
+    },
+    {
+        "Key": "071",
+        "Value": "Облік і оподаткування",
+        "TotalApplications": 575,
+        "BudgetApplications": 460,
+        "ContractApplications": 92,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "072",
+        "Value": "Фінанси, банківська справа та страхування",
+        "TotalApplications": 218,
+        "BudgetApplications": 175,
+        "ContractApplications": 35,
+        "DeclinedApplications": 8
+    },
+    {
+        "Key": "073",
+        "Value": "Менеджмент",
+        "TotalApplications": 833,
+        "BudgetApplications": 667,
+        "ContractApplications": 133,
+        "DeclinedApplications": 33
+    },
+    {
+        "Key": "075",
+        "Value": "Маркетинг",
+        "TotalApplications": 842,
+        "BudgetApplications": 674,
+        "ContractApplications": 135,
+        "DeclinedApplications": 33
+    },
+    {
+        "Key": "076",
+        "Value": "Підприємництво, торгівля та біржова діяльність",
+        "TotalApplications": 389,
+        "BudgetApplications": 312,
+        "ContractApplications": 62,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "081",
+        "Value": "Право",
+        "TotalApplications": 632,
+        "BudgetApplications": 506,
+        "ContractApplications": 101,
+        "DeclinedApplications": 25
+    },
+    {
+        "Key": "091",
+        "Value": "Біологія",
+        "TotalApplications": 944,
+        "BudgetApplications": 756,
+        "ContractApplications": 151,
+        "DeclinedApplications": 37
+    },
+    {
+        "Key": "101",
+        "Value": "Екологія",
+        "TotalApplications": 265,
+        "BudgetApplications": 212,
+        "ContractApplications": 43,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "102",
+        "Value": "Хімія",
+        "TotalApplications": 805,
+        "BudgetApplications": 644,
+        "ContractApplications": 129,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "103",
+        "Value": "Науки про Землю",
+        "TotalApplications": 856,
+        "BudgetApplications": 685,
+        "ContractApplications": 137,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "104",
+        "Value": "Фізика та астрономія",
+        "TotalApplications": 773,
+        "BudgetApplications": 619,
+        "ContractApplications": 124,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "105",
+        "Value": "Прикладна фізика та наноматеріали",
+        "TotalApplications": 512,
+        "BudgetApplications": 410,
+        "ContractApplications": 82,
+        "DeclinedApplications": 20
+    },
+    {
+        "Key": "106",
+        "Value": "Географія",
+        "TotalApplications": 572,
+        "BudgetApplications": 458,
+        "ContractApplications": 92,
+        "DeclinedApplications": 22
+    },
+    {
+        "Key": "111",
+        "Value": "Математика",
+        "TotalApplications": 588,
+        "BudgetApplications": 471,
+        "ContractApplications": 94,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "112",
+        "Value": "Статистика",
+        "TotalApplications": 458,
+        "BudgetApplications": 367,
+        "ContractApplications": 73,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "113",
+        "Value": "Прикладна математика",
+        "TotalApplications": 661,
+        "BudgetApplications": 529,
+        "ContractApplications": 106,
+        "DeclinedApplications": 26
+    },
+    {
+        "Key": "121",
+        "Value": "Інженерія програмного забезпечення",
+        "TotalApplications": 621,
+        "BudgetApplications": 497,
+        "ContractApplications": 100,
+        "DeclinedApplications": 24
+    },
+    {
+        "Key": "122",
+        "Value": "Комп'ютерні науки",
+        "TotalApplications": 862,
+        "BudgetApplications": 690,
+        "ContractApplications": 138,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "123",
+        "Value": "Комп’ютерна інженерія",
+        "TotalApplications": 977,
+        "BudgetApplications": 782,
+        "ContractApplications": 156,
+        "DeclinedApplications": 39
+    },
+    {
+        "Key": "124",
+        "Value": "Системний аналіз",
+        "TotalApplications": 588,
+        "BudgetApplications": 471,
+        "ContractApplications": 94,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "125",
+        "Value": "Кібербезпека",
+        "TotalApplications": 250,
+        "BudgetApplications": 200,
+        "ContractApplications": 40,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "126",
+        "Value": "Інформаційні системи та технології",
+        "TotalApplications": 686,
+        "BudgetApplications": 549,
+        "ContractApplications": 110,
+        "DeclinedApplications": 27
+    },
+    {
+        "Key": "131",
+        "Value": "Прикладна механіка",
+        "TotalApplications": 880,
+        "BudgetApplications": 704,
+        "ContractApplications": 141,
+        "DeclinedApplications": 35
+    },
+    {
+        "Key": "132",
+        "Value": "Матеріалознавство",
+        "TotalApplications": 501,
+        "BudgetApplications": 401,
+        "ContractApplications": 80,
+        "DeclinedApplications": 20
+    },
+    {
+        "Key": "133",
+        "Value": "Галузеве машинобудування",
+        "TotalApplications": 509,
+        "BudgetApplications": 408,
+        "ContractApplications": 81,
+        "DeclinedApplications": 20
+    },
+    {
+        "Key": "134",
+        "Value": "Авіаційна та ракетно-космічна техніка",
+        "TotalApplications": 387,
+        "BudgetApplications": 310,
+        "ContractApplications": 62,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "135",
+        "Value": "Суднобудування",
+        "TotalApplications": 643,
+        "BudgetApplications": 515,
+        "ContractApplications": 103,
+        "DeclinedApplications": 25
+    },
+    {
+        "Key": "136",
+        "Value": "Металургія",
+        "TotalApplications": 516,
+        "BudgetApplications": 413,
+        "ContractApplications": 83,
+        "DeclinedApplications": 20
+    },
+    {
+        "Key": "141",
+        "Value": "Електроенергетика, електротехніка та електромеханіка",
+        "TotalApplications": 524,
+        "BudgetApplications": 420,
+        "ContractApplications": 84,
+        "DeclinedApplications": 20
+    },
+    {
+        "Key": "142",
+        "Value": "Енергетичне машинобудування",
+        "TotalApplications": 204,
+        "BudgetApplications": 164,
+        "ContractApplications": 32,
+        "DeclinedApplications": 8
+    },
+    {
+        "Key": "143",
+        "Value": "Атомна енергетика",
+        "TotalApplications": 979,
+        "BudgetApplications": 784,
+        "ContractApplications": 156,
+        "DeclinedApplications": 39
+    },
+    {
+        "Key": "144",
+        "Value": "Теплоенергетика",
+        "TotalApplications": 943,
+        "BudgetApplications": 755,
+        "ContractApplications": 151,
+        "DeclinedApplications": 37
+    },
+    {
+        "Key": "145",
+        "Value": "Гідроенергетика",
+        "TotalApplications": 573,
+        "BudgetApplications": 459,
+        "ContractApplications": 92,
+        "DeclinedApplications": 22
+    },
+    {
+        "Key": "151",
+        "Value": "Автоматизація та комп’ютерно-інтегровані технології",
+        "TotalApplications": 710,
+        "BudgetApplications": 568,
+        "ContractApplications": 114,
+        "DeclinedApplications": 28
+    },
+    {
+        "Key": "152",
+        "Value": "Метрологія та інформаційно-вимірювальна техніка",
+        "TotalApplications": 421,
+        "BudgetApplications": 337,
+        "ContractApplications": 68,
+        "DeclinedApplications": 16
+    },
+    {
+        "Key": "153",
+        "Value": "Мікро- та наносистемна техніка",
+        "TotalApplications": 818,
+        "BudgetApplications": 655,
+        "ContractApplications": 131,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "161",
+        "Value": "Хімічні технології та інженерія",
+        "TotalApplications": 276,
+        "BudgetApplications": 221,
+        "ContractApplications": 44,
+        "DeclinedApplications": 11
+    },
+    {
+        "Key": "162",
+        "Value": "Біотехнології та біоінженерія",
+        "TotalApplications": 441,
+        "BudgetApplications": 353,
+        "ContractApplications": 71,
+        "DeclinedApplications": 17
+    },
+    {
+        "Key": "163",
+        "Value": "Біомедична інженерія",
+        "TotalApplications": 440,
+        "BudgetApplications": 352,
+        "ContractApplications": 71,
+        "DeclinedApplications": 17
+    },
+    {
+        "Key": "171",
+        "Value": "Електроніка",
+        "TotalApplications": 268,
+        "BudgetApplications": 215,
+        "ContractApplications": 43,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "172",
+        "Value": "Телекомунікації та радіотехніка",
+        "TotalApplications": 822,
+        "BudgetApplications": 658,
+        "ContractApplications": 132,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "173",
+        "Value": "Авіоніка",
+        "TotalApplications": 814,
+        "BudgetApplications": 652,
+        "ContractApplications": 130,
+        "DeclinedApplications": 32
+    },
+    {
+        "Key": "181",
+        "Value": "Харчові технології",
+        "TotalApplications": 572,
+        "BudgetApplications": 458,
+        "ContractApplications": 92,
+        "DeclinedApplications": 22
+    },
+    {
+        "Key": "182",
+        "Value": "Технології легкої промисловості",
+        "TotalApplications": 922,
+        "BudgetApplications": 738,
+        "ContractApplications": 148,
+        "DeclinedApplications": 36
+    },
+    {
+        "Key": "183",
+        "Value": "Технології захисту навколишнього середовища",
+        "TotalApplications": 293,
+        "BudgetApplications": 235,
+        "ContractApplications": 47,
+        "DeclinedApplications": 11
+    },
+    {
+        "Key": "184",
+        "Value": "Гірництво",
+        "TotalApplications": 970,
+        "BudgetApplications": 776,
+        "ContractApplications": 156,
+        "DeclinedApplications": 38
+    },
+    {
+        "Key": "185",
+        "Value": "Нафтогазова інженерія та технології",
+        "TotalApplications": 895,
+        "BudgetApplications": 716,
+        "ContractApplications": 144,
+        "DeclinedApplications": 35
+    },
+    {
+        "Key": "186",
+        "Value": "Видавництво та поліграфія",
+        "TotalApplications": 259,
+        "BudgetApplications": 208,
+        "ContractApplications": 41,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "187",
+        "Value": "Деревообробні та меблеві технології",
+        "TotalApplications": 618,
+        "BudgetApplications": 495,
+        "ContractApplications": 99,
+        "DeclinedApplications": 24
+    },
+    {
+        "Key": "191",
+        "Value": "Архітектура та містобудування",
+        "TotalApplications": 851,
+        "BudgetApplications": 681,
+        "ContractApplications": 136,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "192",
+        "Value": "Будівництво та цивільна інженерія",
+        "TotalApplications": 844,
+        "BudgetApplications": 676,
+        "ContractApplications": 135,
+        "DeclinedApplications": 33
+    },
+    {
+        "Key": "193",
+        "Value": "Геодезія та землеустрій",
+        "TotalApplications": 493,
+        "BudgetApplications": 395,
+        "ContractApplications": 79,
+        "DeclinedApplications": 19
+    },
+    {
+        "Key": "194",
+        "Value": "Гідротехнічне будівництво, водна інженерія та водні технології",
+        "TotalApplications": 474,
+        "BudgetApplications": 380,
+        "ContractApplications": 76,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "201",
+        "Value": "Агрономія",
+        "TotalApplications": 871,
+        "BudgetApplications": 697,
+        "ContractApplications": 140,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "202",
+        "Value": "Захист і карантин рослин",
+        "TotalApplications": 426,
+        "BudgetApplications": 341,
+        "ContractApplications": 68,
+        "DeclinedApplications": 17
+    },
+    {
+        "Key": "203",
+        "Value": "Садівництво та виноградарство",
+        "TotalApplications": 761,
+        "BudgetApplications": 609,
+        "ContractApplications": 122,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "204",
+        "Value": "Технологія виробництва і переробки продукції тваринництва",
+        "TotalApplications": 533,
+        "BudgetApplications": 427,
+        "ContractApplications": 85,
+        "DeclinedApplications": 21
+    },
+    {
+        "Key": "205",
+        "Value": "Лісове господарство",
+        "TotalApplications": 990,
+        "BudgetApplications": 792,
+        "ContractApplications": 159,
+        "DeclinedApplications": 39
+    },
+    {
+        "Key": "206",
+        "Value": "Садово-паркове господарство",
+        "TotalApplications": 497,
+        "BudgetApplications": 398,
+        "ContractApplications": 80,
+        "DeclinedApplications": 19
+    },
+    {
+        "Key": "207",
+        "Value": "Водні біоресурси та аквакультура",
+        "TotalApplications": 610,
+        "BudgetApplications": 488,
+        "ContractApplications": 98,
+        "DeclinedApplications": 24
+    },
+    {
+        "Key": "208",
+        "Value": "Агроінженерія",
+        "TotalApplications": 212,
+        "BudgetApplications": 170,
+        "ContractApplications": 34,
+        "DeclinedApplications": 8
+    },
+    {
+        "Key": "211",
+        "Value": "Ветеринарна медицина",
+        "TotalApplications": 325,
+        "BudgetApplications": 260,
+        "ContractApplications": 52,
+        "DeclinedApplications": 13
+    },
+    {
+        "Key": "212",
+        "Value": "Ветеринарна гігієна, санітарія і експертиза",
+        "TotalApplications": 606,
+        "BudgetApplications": 485,
+        "ContractApplications": 97,
+        "DeclinedApplications": 24
+    },
+    {
+        "Key": "221",
+        "Value": "Стоматологія",
+        "TotalApplications": 786,
+        "BudgetApplications": 629,
+        "ContractApplications": 126,
+        "DeclinedApplications": 31
+    },
+    {
+        "Key": "222",
+        "Value": "Медицина",
+        "TotalApplications": 354,
+        "BudgetApplications": 284,
+        "ContractApplications": 56,
+        "DeclinedApplications": 14
+    },
+    {
+        "Key": "223",
+        "Value": "Медсестринство",
+        "TotalApplications": 435,
+        "BudgetApplications": 348,
+        "ContractApplications": 70,
+        "DeclinedApplications": 17
+    },
+    {
+        "Key": "224",
+        "Value": "Технології медичної діагностики та лікування",
+        "TotalApplications": 525,
+        "BudgetApplications": 420,
+        "ContractApplications": 84,
+        "DeclinedApplications": 21
+    },
+    {
+        "Key": "225",
+        "Value": "Медична психологія",
+        "TotalApplications": 228,
+        "BudgetApplications": 183,
+        "ContractApplications": 36,
+        "DeclinedApplications": 9
+    },
+    {
+        "Key": "226",
+        "Value": "Фармація, промислова фармація",
+        "TotalApplications": 654,
+        "BudgetApplications": 524,
+        "ContractApplications": 104,
+        "DeclinedApplications": 26
+    },
+    {
+        "Key": "227",
+        "Value": "Фізична терапія, ерготерапія",
+        "TotalApplications": 223,
+        "BudgetApplications": 179,
+        "ContractApplications": 36,
+        "DeclinedApplications": 8
+    },
+    {
+        "Key": "228",
+        "Value": "Педіатрія",
+        "TotalApplications": 256,
+        "BudgetApplications": 205,
+        "ContractApplications": 41,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "229",
+        "Value": "Громадське здоров'я",
+        "TotalApplications": 774,
+        "BudgetApplications": 620,
+        "ContractApplications": 124,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "231",
+        "Value": "Соціальна робота",
+        "TotalApplications": 378,
+        "BudgetApplications": 303,
+        "ContractApplications": 60,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "232",
+        "Value": "Соціальне забезпечення",
+        "TotalApplications": 951,
+        "BudgetApplications": 761,
+        "ContractApplications": 152,
+        "DeclinedApplications": 38
+    },
+    {
+        "Key": "241",
+        "Value": "Готельно-ресторанна справа",
+        "TotalApplications": 581,
+        "BudgetApplications": 465,
+        "ContractApplications": 93,
+        "DeclinedApplications": 23
+    },
+    {
+        "Key": "242",
+        "Value": "Туризм",
+        "TotalApplications": 375,
+        "BudgetApplications": 300,
+        "ContractApplications": 60,
+        "DeclinedApplications": 15
+    },
+    {
+        "Key": "251",
+        "Value": "Державна безпека",
+        "TotalApplications": 474,
+        "BudgetApplications": 380,
+        "ContractApplications": 76,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "252",
+        "Value": "Безпека державного кордону",
+        "TotalApplications": 603,
+        "BudgetApplications": 483,
+        "ContractApplications": 96,
+        "DeclinedApplications": 24
+    },
+    {
+        "Key": "253",
+        "Value": "Військове управління",
+        "TotalApplications": 300,
+        "BudgetApplications": 240,
+        "ContractApplications": 48,
+        "DeclinedApplications": 12
+    },
+    {
+        "Key": "254",
+        "Value": "Забезпечення військ (сил)",
+        "TotalApplications": 564,
+        "BudgetApplications": 452,
+        "ContractApplications": 90,
+        "DeclinedApplications": 22
+    },
+    {
+        "Key": "255",
+        "Value": "Озброєння та військова техніка",
+        "TotalApplications": 463,
+        "BudgetApplications": 371,
+        "ContractApplications": 74,
+        "DeclinedApplications": 18
+    },
+    {
+        "Key": "256",
+        "Value": "Національна безпека",
+        "TotalApplications": 901,
+        "BudgetApplications": 721,
+        "ContractApplications": 144,
+        "DeclinedApplications": 36
+    },
+    {
+        "Key": "261",
+        "Value": "Пожежна безпека",
+        "TotalApplications": 876,
+        "BudgetApplications": 701,
+        "ContractApplications": 140,
+        "DeclinedApplications": 35
+    },
+    {
+        "Key": "262",
+        "Value": "Правоохоронна діяльність",
+        "TotalApplications": 742,
+        "BudgetApplications": 594,
+        "ContractApplications": 119,
+        "DeclinedApplications": 29
+    },
+    {
+        "Key": "263",
+        "Value": "Цивільна безпека",
+        "TotalApplications": 918,
+        "BudgetApplications": 735,
+        "ContractApplications": 147,
+        "DeclinedApplications": 36
+    },
+    {
+        "Key": "271",
+        "Value": "Річковий та морський транспорт",
+        "TotalApplications": 545,
+        "BudgetApplications": 436,
+        "ContractApplications": 88,
+        "DeclinedApplications": 21
+    },
+    {
+        "Key": "272",
+        "Value": "Авіаційний транспорт",
+        "TotalApplications": 766,
+        "BudgetApplications": 613,
+        "ContractApplications": 123,
+        "DeclinedApplications": 30
+    },
+    {
+        "Key": "273",
+        "Value": "Залізничний транспорт",
+        "TotalApplications": 721,
+        "BudgetApplications": 577,
+        "ContractApplications": 116,
+        "DeclinedApplications": 28
+    },
+    {
+        "Key": "274",
+        "Value": "Автомобільний транспорт",
+        "TotalApplications": 980,
+        "BudgetApplications": 784,
+        "ContractApplications": 157,
+        "DeclinedApplications": 39
+    },
+    {
+        "Key": "275",
+        "Value": "Транспортні технології",
+        "TotalApplications": 422,
+        "BudgetApplications": 338,
+        "ContractApplications": 68,
+        "DeclinedApplications": 16
+    },
+    {
+        "Key": "281",
+        "Value": "Публічне управління та адміністрування",
+        "TotalApplications": 856,
+        "BudgetApplications": 685,
+        "ContractApplications": 137,
+        "DeclinedApplications": 34
+    },
+    {
+        "Key": "291",
+        "Value": "Міжнародні відносини, суспільні комунікації та регіональні студії",
+        "TotalApplications": 662,
+        "BudgetApplications": 530,
+        "ContractApplications": 106,
+        "DeclinedApplications": 26
+    },
+    {
+        "Key": "292",
+        "Value": "Міжнародні економічні відносини",
+        "TotalApplications": 256,
+        "BudgetApplications": 205,
+        "ContractApplications": 41,
+        "DeclinedApplications": 10
+    },
+    {
+        "Key": "293",
+        "Value": "Міжнародне право",
+        "TotalApplications": 909,
+        "BudgetApplications": 728,
+        "ContractApplications": 145,
+        "DeclinedApplications": 36
+    }
+]

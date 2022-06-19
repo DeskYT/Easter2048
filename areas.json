@@ -1,0 +1,170 @@
+ [
+  {
+    "id": "05",
+    "AverageScore": 33,
+    "BudgetApplications": 1143,
+    "TotalApplications": 1473,
+    "Name": "Вінницька область"
+  },
+  {
+    "id": "07",
+    "AverageScore": 132,
+    "BudgetApplications": 903,
+    "TotalApplications": 1256,
+    "Name": "Волинська область"
+  },
+  {
+    "id": "12",
+    "AverageScore": 69,
+    "BudgetApplications": 830,
+    "TotalApplications": 1452,
+    "Name": "Дніпропетровська область"
+  },
+  {
+    "id": "14",
+    "AverageScore": 54,
+    "BudgetApplications": 903,
+    "TotalApplications": 1500,
+    "Name": "Донецька область"
+  },
+  {
+    "id": "18",
+    "AverageScore": 51,
+    "BudgetApplications": 961,
+    "TotalApplications": 1486,
+    "Name": "Житомирська область"
+  },
+  {
+    "id": "21",
+    "AverageScore": 37,
+    "BudgetApplications": 1099,
+    "TotalApplications": 1256,
+    "Name": "Закарпатська область"
+  },
+  {
+    "id": "23",
+    "AverageScore": 132,
+    "BudgetApplications": 1055,
+    "TotalApplications": 1387,
+    "Name": "Запорізька область"
+  },
+  {
+    "id": "26",
+    "AverageScore": 159,
+    "BudgetApplications": 1152,
+    "TotalApplications": 1339,
+    "Name": "Івано-Франківська область"
+  },
+  {
+    "id": "32",
+    "AverageScore": 20,
+    "BudgetApplications": 995,
+    "TotalApplications": 1455,
+    "Name": "Київська область"
+  },
+  {
+    "id": "35",
+    "AverageScore": 42,
+    "BudgetApplications": 1076,
+    "TotalApplications": 1440,
+    "Name": "Кіровоградська область"
+  },
+  {
+    "id": "44",
+    "AverageScore": 60,
+    "BudgetApplications": 1028,
+    "TotalApplications": 1406,
+    "Name": "Луганська область"
+  },
+  {
+    "id": "46",
+    "AverageScore": 160,
+    "BudgetApplications": 1134,
+    "TotalApplications": 1439,
+    "Name": "Львівська область"
+  },
+  {
+    "id": "48",
+    "AverageScore": 40,
+    "BudgetApplications": 1040,
+    "TotalApplications": 1336,
+    "Name": "Миколаївська область"
+  },
+  {
+    "id": "51",
+    "AverageScore": 164,
+    "BudgetApplications": 1040,
+    "TotalApplications": 1309,
+    "Name": "Одеська область"
+  },
+  {
+    "id": "53",
+    "AverageScore": 52,
+    "BudgetApplications": 1100,
+    "TotalApplications": 1302,
+    "Name": "Полтавська область"
+  },
+  {
+    "id": "56",
+    "AverageScore": 38,
+    "BudgetApplications": 820,
+    "TotalApplications": 1409,
+    "Name": "Рівненська область"
+  },
+  {
+    "id": "59",
+    "AverageScore": 171,
+    "BudgetApplications": 817,
+    "TotalApplications": 1432,
+    "Name": "Сумська область"
+  },
+  {
+    "id": "61",
+    "AverageScore": 30,
+    "BudgetApplications": 957,
+    "TotalApplications": 1285,
+    "Name": "Тернопільська область"
+  },
+  {
+    "id": "63",
+    "AverageScore": 61,
+    "BudgetApplications": 810,
+    "TotalApplications": 1289,
+    "Name": "Харківська область"
+  },
+  {
+    "id": "65",
+    "AverageScore": 156,
+    "BudgetApplications": 1162,
+    "TotalApplications": 1321,
+    "Name": "Херсонська область"
+  },
+  {
+    "id": "68",
+    "AverageScore": 39,
+    "BudgetApplications": 826,
+    "TotalApplications": 1467,
+    "Name": "Хмельницька область"
+  },
+  {
+    "id": "71",
+    "AverageScore": 26,
+    "BudgetApplications": 1185,
+    "TotalApplications": 1275,
+    "Name": "Черкаська область"
+  },
+  {
+    "id": "73",
+    "AverageScore": 167,
+    "BudgetApplications": 953,
+    "TotalApplications": 1424,
+    "Name": "Чернівецька область"
+  },
+  {
+    "id": "74",
+    "AverageScore": 84,
+    "BudgetApplications": 892,
+    "TotalApplications": 1376,
+    "Name": "Чернігівська область"
+  }
+]

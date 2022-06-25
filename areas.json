@@ -4,6 +4,7 @@
     "AverageScore": 33,
     "BudgetApplications": 1143,
     "TotalApplications": 1473,
+    "TotalRequests": 1521,
     "Name": "Вінницька область"
   },
   {
@@ -11,6 +12,7 @@
     "AverageScore": 132,
     "BudgetApplications": 903,
     "TotalApplications": 1256,
+    "TotalRequests": 1301,
     "Name": "Волинська область"
   },
   {
@@ -18,6 +20,7 @@
     "AverageScore": 69,
     "BudgetApplications": 830,
     "TotalApplications": 1452,
+    "TotalRequests": 1554,
     "Name": "Дніпропетровська область"
   },
   {
@@ -25,6 +28,7 @@
     "AverageScore": 54,
     "BudgetApplications": 903,
     "TotalApplications": 1500,
+    "TotalRequests": 1662,
     "Name": "Донецька область"
   },
   {
@@ -32,6 +36,7 @@
     "AverageScore": 51,
     "BudgetApplications": 961,
     "TotalApplications": 1486,
+    "TotalRequests": 1584,
     "Name": "Житомирська область"
   },
   {
@@ -39,6 +44,7 @@
     "AverageScore": 37,
     "BudgetApplications": 1099,
     "TotalApplications": 1256,
+    "TotalRequests": 1371,
     "Name": "Закарпатська область"
   },
   {
@@ -46,6 +52,7 @@
     "AverageScore": 132,
     "BudgetApplications": 1055,
     "TotalApplications": 1387,
+    "TotalRequests": 1426,
     "Name": "Запорізька область"
   },
   {
@@ -53,6 +60,7 @@
     "AverageScore": 159,
     "BudgetApplications": 1152,
     "TotalApplications": 1339,
+    "TotalRequests": 1400,
     "Name": "Івано-Франківська область"
   },
   {
@@ -60,6 +68,7 @@
     "AverageScore": 20,
     "BudgetApplications": 995,
     "TotalApplications": 1455,
+    "TotalRequests": 1502,
     "Name": "Київська область"
   },
   {
@@ -67,6 +76,7 @@
     "AverageScore": 42,
     "BudgetApplications": 1076,
     "TotalApplications": 1440,
+    "TotalRequests": 1449,
     "Name": "Кіровоградська область"
   },
   {
@@ -74,6 +84,7 @@
     "AverageScore": 60,
     "BudgetApplications": 1028,
     "TotalApplications": 1406,
+    "TotalRequests": 1491,
     "Name": "Луганська область"
   },
   {
@@ -81,6 +92,7 @@
     "AverageScore": 160,
     "BudgetApplications": 1134,
     "TotalApplications": 1439,
+    "TotalRequests": 1511,
     "Name": "Львівська область"
   },
   {
@@ -88,6 +100,7 @@
     "AverageScore": 40,
     "BudgetApplications": 1040,
     "TotalApplications": 1336,
+    "TotalRequests": 1435,
     "Name": "Миколаївська область"
   },
   {
@@ -95,6 +108,7 @@
     "AverageScore": 164,
     "BudgetApplications": 1040,
     "TotalApplications": 1309,
+    "TotalRequests": 1376,
     "Name": "Одеська область"
   },
   {
@@ -102,6 +116,7 @@
     "AverageScore": 52,
     "BudgetApplications": 1100,
     "TotalApplications": 1302,
+    "TotalRequests": 1377,
     "Name": "Полтавська область"
   },
   {
@@ -109,6 +124,7 @@
     "AverageScore": 38,
     "BudgetApplications": 820,
     "TotalApplications": 1409,
+    "TotalRequests": 1509,
     "Name": "Рівненська область"
   },
   {
@@ -116,6 +132,7 @@
     "AverageScore": 171,
     "BudgetApplications": 817,
     "TotalApplications": 1432,
+    "TotalRequests": 1561,
     "Name": "Сумська область"
   },
   {
@@ -123,6 +140,7 @@
     "AverageScore": 30,
     "BudgetApplications": 957,
     "TotalApplications": 1285,
+    "TotalRequests": 1455,
     "Name": "Тернопільська область"
   },
   {
@@ -130,6 +148,7 @@
     "AverageScore": 61,
     "BudgetApplications": 810,
     "TotalApplications": 1289,
+    "TotalRequests": 1354,
     "Name": "Харківська область"
   },
   {
@@ -137,6 +156,7 @@
     "AverageScore": 156,
     "BudgetApplications": 1162,
     "TotalApplications": 1321,
+    "TotalRequests": 1467,
     "Name": "Херсонська область"
   },
   {
@@ -144,6 +164,7 @@
     "AverageScore": 39,
     "BudgetApplications": 826,
     "TotalApplications": 1467,
+    "TotalRequests": 1684,
     "Name": "Хмельницька область"
   },
   {
@@ -151,6 +172,7 @@
     "AverageScore": 26,
     "BudgetApplications": 1185,
     "TotalApplications": 1275,
+    "TotalRequests": 1347,
     "Name": "Черкаська область"
   },
   {
@@ -158,6 +180,7 @@
     "AverageScore": 167,
     "BudgetApplications": 953,
     "TotalApplications": 1424,
+    "TotalRequests": 1487,
     "Name": "Чернівецька область"
   },
   {
@@ -165,6 +188,7 @@
     "AverageScore": 84,
     "BudgetApplications": 892,
     "TotalApplications": 1376,
+    "TotalRequests": 1461,
     "Name": "Чернігівська область"
   }
 ]
